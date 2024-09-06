@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dany-csulb
-- 👀 I’m interested in Tool Development
-- 🌱 I’m currently learning JavaScript, Python, Vue.js, and Angular.
-- 💞️ I’m looking to collaborate on anything that will deepend my knowledge in development.
+- 👀 I’m interested in Systems, Cloud Infrastructure, and Software Dev
+- 🌱 I’m currently learning Jenkins, Docker, Kubernetes, and Terraform
 - 📫 How to reach me dany.github@gmail.com
 
 <!---
